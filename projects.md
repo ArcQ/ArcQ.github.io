@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Index of Projects
+title: Projects
 ---
 
 Check out some of my projects.
